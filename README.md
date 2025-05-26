@@ -4,7 +4,7 @@
 🎯 **About me**  
 - 💼 Currently working at **OpMobility** on a project called **UCG: UDS Code Generator**  
   > Building a tool to **automatically generate UDS/Diagnostic callback functions** from standardized ARXML files extracted from diagnostic specifications (e.g., CDD files from Candela Studio), aiming to reduce manual errors.  
-- 🎓 Final year of Engineering Studies with a diverse background in **software development**, including **backend**, **frontend**, and **embedded systems**.  
+- 🎓 Final year of Engineering Studies with a diverse background in **software development** and **cybersecurity**.  
 - 🛡️ Specializing in **Cybersecurity**: Pentesting, Blue Team methodologies, vulnerability analysis...  
 - 🔎 Active on **Root Me**: [AnasKH21](https://www.root-me.org/AnasKH21)  
 - 📫 Reach me at **anaskhayar21@gmail.com**
