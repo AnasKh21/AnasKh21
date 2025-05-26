@@ -44,7 +44,7 @@ Tool to automatically generate diagnostic callbacks (in C) from ARXML files foll
 > - Spectral analysis and decoding using FFT and filtering  
 > - Visualizations with `matplotlib` and audio analysis using `librosa`  
 > Tech: Python, NumPy, Matplotlib, Librosa, Einops  
-> [→ GitHub repo](https://github.com/AnasKH21/DTMF)
+> [→ GitHub repo] https://github.com/AnasKh21/DMTF
 
 
 ---
