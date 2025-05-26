@@ -38,6 +38,15 @@ Tool to automatically generate diagnostic callbacks (in C) from ARXML files foll
 > Tech: Python, scikit-learn, pandas, Streamlit, NLP  
 > Repo coming soon 👀
 
+📞 **DTMF – Dual Tone Multi-Frequency Generator & Decoder**  
+> A signal processing project to simulate and decode DTMF tones (e.g., keypad sounds).  
+> - Generation of tones based on standard telephone frequencies  
+> - Spectral analysis and decoding using FFT and filtering  
+> - Visualizations with `matplotlib` and audio analysis using `librosa`  
+> Tech: Python, NumPy, Matplotlib, Librosa, Einops  
+> [→ GitHub repo](https://github.com/AnasKH21/DTMF)
+
+
 ---
 
 <h3 align="left">📬 Let's Connect</h3>
