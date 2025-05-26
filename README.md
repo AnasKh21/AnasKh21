@@ -38,6 +38,14 @@ Tool to automatically generate diagnostic callbacks (in C) from ARXML files foll
 > Tech: Python, scikit-learn, pandas, Streamlit, NLP  
 > Repo coming soon 👀
 
+🛡️ **Snort-Based Intrusion Detection System** *(coming soon)*  
+> A hybrid IDS combining Snort with Python to detect and react to suspicious network activity.  
+> - Real-time alert parsing from Snort logs  
+> - Classification and filtering using Python regex  
+> - Modular design to extend with alert systems or dashboards  
+> Tech: Snort, Python, Linux  
+> [→ GitHub repo]
+
 📞 **DTMF – Dual Tone Multi-Frequency Generator & Decoder**  
 > A signal processing project to simulate and decode DTMF tones (e.g., keypad sounds).  
 > - Generation of tones based on standard telephone frequencies  
