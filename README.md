@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Khayar Anas</h1>
-<h3 align="center">Final-year cybersecurity engineering student based in France</h3>
+<h3 align="center">Cybersecurity & Software Engineering Graduate from ENSIIE, France</h3>
 
 🎯 **About me**  
-- 💼 Currently working at **OpMobility** on a project called **UCG: UDS Code Generator**  
-  > Building a tool to **automatically generate UDS/Diagnostic callback functions** from standardized ARXML files extracted from diagnostic specifications (e.g., CDD files from Candela Studio), aiming to reduce manual errors.  
-- 🎓 Final year of Engineering Studies with a diverse background in **software development** and **cybersecurity**.  
-- 🛡️ Specializing in **Cybersecurity**: Pentesting, Blue Team methodologies, vulnerability analysis...  
+- 🧑‍🎓 Recently graduated from **ENSIIE** with a strong background in **software development** and **cybersecurity**.  
+- 🔐 Passionate about **offensive & defensive security**, data analysis, and automation.  
+- 💼 Former apprentice at **OpMobility**, where I worked on a UDS diagnostic tool used in the automotive industry.  
+- 📊 Exploring the intersection between **cybersecurity**, **data science**, and **graph analytics**.  
 - 🔎 Active on **Root Me**: [AnasKH21](https://www.root-me.org/AnasKH21)  
 - 📫 Reach me at **anaskhayar21@gmail.com**
 
@@ -25,35 +25,43 @@
 
 <h3 align="left">📂 Featured Projects</h3>
 
+🧬 **Epidemic Contact Tracing using Graph Analytics (Neo4j)**  
+> A graph-based approach to simulate and analyze the spread of a virus.  
+> - Modeled interactions between people and places using Neo4j  
+> - Used graph algorithms (PageRank, Louvain, Betweenness, Tarjan) to detect superspreaders, risk communities, and contact chains  
+> - Visualized algorithm performance and extracted key epidemiological insights  
+> Tech: Neo4j, Cypher, Python, Graph Data Science Library  
+> [→ GitHub Repo](https://github.com/AnasKh21/COVID-Contact-Tracing-Neo4j-ou-GEDA-Neo4j)
+
 🛠️ **UCG – UDS Code Generator**  
-*Current project at OpMobility*  
-Tool to automatically generate diagnostic callbacks (in C) from ARXML files following UDS standards (e.g., CDD from Candela Studio). It reduces manual errors and accelerates development.
+*Internship project at OpMobility*  
+> A tool to automatically generate diagnostic callbacks (in C) from ARXML files based on UDS protocol.  
+> - Reduced manual errors in embedded automotive development  
+> - Parsed complex .cdd / .arxml structures from Vector Candela Studio  
+> Tech: Python, XML parsing, AUTOSAR, UDS (ISO 14229)
 
 🧠 **PhishML – Machine Learning-Based Phishing Email Detector** *(coming soon)*  
-> A personal cybersecurity project using ML to detect phishing attempts via email content.  
+> A personal cybersecurity project using ML to detect phishing emails.  
 > - Preprocessing real email data  
-> - Training models (Naive Bayes, Random Forest)  
-> - Evaluation (confusion matrix, F1 score...)  
-> - Optional front-end for testing new emails live  
+> - Training classifiers (Naive Bayes, Random Forest)  
+> - Live predictions via Streamlit  
 > Tech: Python, scikit-learn, pandas, Streamlit, NLP  
-> [→ GitHub repo]👀https://github.com/AnasKh21/PhishML
+> [→ GitHub Repo](https://github.com/AnasKh21/PhishML)
 
 🛡️ **Snort-Based Intrusion Detection System** *(coming soon)*  
-> A hybrid IDS combining Snort with Python to detect and react to suspicious network activity.  
-> - Real-time alert parsing from Snort logs  
-> - Classification and filtering using Python regex  
-> - Modular design to extend with alert systems or dashboards  
+> A hybrid IDS combining Snort logs and Python automation.  
+> - Real-time parsing, alert classification  
+> - Regex-based filtering of suspicious traffic  
 > Tech: Snort, Python, Linux  
-> [→ GitHub repo]
+> [→ GitHub Repo]
 
 📞 **DTMF – Dual Tone Multi-Frequency Generator & Decoder**  
-> A signal processing project to simulate and decode DTMF tones (e.g., keypad sounds).  
-> - Generation of tones based on standard telephone frequencies  
-> - Spectral analysis and decoding using FFT and filtering  
-> - Visualizations with `matplotlib` and audio analysis using `librosa`  
-> Tech: Python, NumPy, Matplotlib, Librosa, Einops  
-> [→ GitHub repo] https://github.com/AnasKh21/DMTF
-
+> Simulated and decoded DTMF tones (keypad sounds) via digital signal processing.  
+> - Generated tones based on telephone frequencies  
+> - Decoded using FFT & filtering  
+> - Visualizations with `matplotlib`, audio processing with `librosa`  
+> Tech: Python, NumPy, Matplotlib, Librosa  
+> [→ GitHub Repo](https://github.com/AnasKh21/DMTF)
 
 ---
 
@@ -61,3 +69,7 @@ Tool to automatically generate diagnostic callbacks (in C) from ARXML files foll
 
 - 📧 anaskhayar21@gmail.com  
 - 🧠 Root Me: [AnasKH21](https://www.root-me.org/AnasKH21)  
+- 🌐 Portfolio or LinkedIn coming soon...
+
+---
+
