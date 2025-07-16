@@ -36,7 +36,7 @@ Tool to automatically generate diagnostic callbacks (in C) from ARXML files foll
 > - Evaluation (confusion matrix, F1 score...)  
 > - Optional front-end for testing new emails live  
 > Tech: Python, scikit-learn, pandas, Streamlit, NLP  
-> Repo coming soon 👀
+> [→ GitHub repo]👀https://github.com/AnasKh21/PhishML
 
 🛡️ **Snort-Based Intrusion Detection System** *(coming soon)*  
 > A hybrid IDS combining Snort with Python to detect and react to suspicious network activity.  
