@@ -22,7 +22,6 @@
 ---
 <img align="right" alt="coding" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="340" style="margin-top: 18px;"/>
 
-## About Me
 
 Software engineer from **ENSIIE (Computer science engineer's degree | Paris)**.
 
