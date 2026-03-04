@@ -1,94 +1,122 @@
 <h1 align="center">Hey 👋, I'm Anas Khayar</h1>
-<h3 align="center">Software Engineer · Backend · Systems · Security</h3>
+<h3 align="center">Software Engineer · Young passionate graduate student</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/your-linkedin"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="18"/></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20"/>
+</a>
 &nbsp;&nbsp;
-<a href="https://github.com/AnasKh21"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="18"/></a>
+<a href="https://github.com/AnasKh21">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="20"/>
+</a>
 &nbsp;&nbsp;
-<a href="https://AnasKh21.github.io"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" height="18"/></a>
+<a href="https://AnasKh21.github.io">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" height="20"/>
+</a>
 &nbsp;&nbsp;
-<a href="https://www.root-me.org/AnasKH21"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackthebox.svg" height="18"/></a>
+<a href="https://www.root-me.org/AnasKH21">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackthebox.svg" height="20"/>
+</a>
 </p>
 
 ---
 
-<img align="right" alt="coding" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
+## About Me
 
-### About me
+Software engineer from **ensIIE ( Computer science engineer's degree | Paris )**.
 
-Software engineer from **ENSIIE (France)**.  
-I enjoy building backend systems, APIs and tools.
+I like building backend systems, APIs and tools, learning new technologies, and improving my programming skills through projects and experimentation.
 
-Most of my time is spent:
+I spend a lot of time coding, solving programming problems, and exploring how systems work under the hood.
 
-• writing code  
-• learning new technologies  
-• building personal projects  
-• solving programming problems  
+I also practice **CTF challenges and security labs**, and regularly solve problems on platforms like **LeetCode, Root-Me and KodeKloud**.
 
-I’m particularly interested in **systems, backend architecture, cloud workflows and security**.
-
-I also practice **CTF challenges** and algorithm problems on platforms like **Root-Me, LeetCode and KodeKloud**.
-
-More projects and experiments are available on my portfolio:
+Check my personal website:
 
 **https://AnasKh21.github.io**
 
 ---
 
-### Technologies
+# Tech Stack
 
-**Languages**
+### Languages
 
-Python • Java • C • C# • JavaScript • TypeScript • SQL • Bash
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
+</p>
 
-**Backend**
+### Backend
 
-Node.js • Express • Spring Boot • .NET • REST APIs • FastAPI
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/>
+</p>
 
-**Frontend**
+### Frontend
 
-React • Angular • HTML • CSS • Tailwind
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40"/>
+</p>
 
-**Databases**
+### Databases
 
-PostgreSQL • MySQL • MongoDB • Redis • Neo4j
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40"/>
+</p>
 
-**Tools**
+### Tools & DevOps
 
-Docker • Linux • Git • CI/CD • Nginx • Apache
-
-**Workflows**
-
-Ollama • Claude • n8n • AI agents
-
----
-
-### Learning
-
-I regularly practice  with:
-
-• LeetCode  
-• Root-Me CTF challenges  
-• KodeKloud  
-• HackTheBox
-• Certifications
-• Autonomous projects
-
-
----
-
-### GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AnasKh21&show_icons=true&theme=transparent"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasKh21&layout=compact&theme=transparent"/>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40"/>
 </p>
 
 ---
 
-### Links
+# Learning & Practice
+
+I regularly practice and experiment with:
+
+- LeetCode  
+- Root-Me CTF challenges  
+- KodeKloud  
+- building small systems and automation tools
+
+---
+
+# GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AnasKh21&show_icons=true&theme=transparent"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasKh21&layout=compact&theme=transparent"/>
+
+</p>
+
+---
+
+# Links
 
 Portfolio  
 https://AnasKh21.github.io
