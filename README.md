@@ -1,87 +1,100 @@
-<h1 align="center">Hi, I'm Anas Khayar</h1>
-<h3 align="center">Software Engineer · Backend · Systems · Cloud · Security</h3>
+<h1 align="center">Hey 👋, I'm Anas Khayar</h1>
+<h3 align="center">Software Engineer · Backend · Systems · Security</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/your-linkedin"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="18"/></a>
+&nbsp;&nbsp;
+<a href="https://github.com/AnasKh21"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="18"/></a>
+&nbsp;&nbsp;
+<a href="https://AnasKh21.github.io"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" height="18"/></a>
+&nbsp;&nbsp;
+<a href="https://www.root-me.org/AnasKH21"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackthebox.svg" height="18"/></a>
+</p>
 
 ---
 
-## About Me
+<img align="right" alt="coding" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
 
-I’m a software engineer and computer science graduate from **ENSIIE (France)**.
+### About me
 
-I’m passionate about **coding** and building real systems.  
-Here you’ll find projects around **software development**, **backend systems**, **cloud**, and **cybersecurity**.
+Software engineer from **ENSIIE (France)**.  
+I enjoy building backend systems, APIs and tools.
 
-I work on personal projects to improve my skills, experiment with new technologies, and understand how things behave in real conditions (performance, reliability, security).
+Most of my time is spent:
 
-I also practice **CTF challenges** and regularly explore security-related topics alongside development.
+• writing code  
+• learning new technologies  
+• building personal projects  
+• solving programming problems  
 
-You can find more details and technical notes on my personal website:  
-👉 **https://AnasKh21.github.io**
+I’m particularly interested in **systems, backend architecture, cloud workflows and security**.
 
-(Some sections include intentionally vulnerable labs for **ethical security learning only**.)
+I also practice **CTF challenges** and algorithm problems on platforms like **Root-Me, LeetCode and KodeKloud**.
 
-- Root-Me profile: https://www.root-me.org/AnasKH21  
-- Contact: **anaskhayar21@gmail.com**
+More projects and experiments are available on my portfolio:
 
----
-
-
-## Selected Projects
-
-### E-Commerce Store
-Full-stack web application.
-
-- Backend in **Java / Spring Boot**
-- REST APIs for products, cart, and orders
-- PostgreSQL database
-- Frontend in **React**
-- Dockerized services
-
-🔗 https://github.com/AnasKh21/spring-ecom-store
+**https://AnasKh21.github.io**
 
 ---
 
-### Support Chatbot — Web Application
-User support chatbot project.
+### Technologies
 
-- Frontend with **NuxtJS (Vite)**
-- Backend REST API
-- FAQ search engine
-- Streaming responses using **SSE**
+**Languages**
 
----
+Python • Java • C • C# • JavaScript • TypeScript • SQL • Bash
 
-### CVE Explorer
-Security-focused application.
+**Backend**
 
-- Query public CVE databases
-- Filter vulnerabilities by product, severity, and date
-- Built to understand vulnerability lifecycles
+Node.js • Express • Spring Boot • .NET • REST APIs • FastAPI
 
-🔗 https://github.com/AnasKh21/CVE-EXPLORER
+**Frontend**
 
----
+React • Angular • HTML • CSS • Tailwind
 
-### PhishML
-Phishing detection project.
+**Databases**
 
-- Feature extraction from emails
-- Classical machine learning models
-- Focus on understanding the pipeline
+PostgreSQL • MySQL • MongoDB • Redis • Neo4j
 
-🔗 https://github.com/AnasKh21/PhishML
+**Tools**
+
+Docker • Linux • Git • CI/CD • Nginx • Apache
+
+**Workflows**
+
+Ollama • Claude • n8n • AI agents
 
 ---
 
-## Learning & Practice
+### Learning
 
-- CTF practice on **Root-Me**
-- Personal labs and experiments
-- Continuous learning through projects
+I regularly practice  with:
+
+• LeetCode  
+• Root-Me CTF challenges  
+• KodeKloud  
+• HackTheBox
+• Certifications
+• Autonomous projects
+
 
 ---
 
-## Contact
+### GitHub Stats
 
-- Email: **anaskhayar21@gmail.com**
-- Website: https://AnasKh21.github.io
-- Root-Me: https://www.root-me.org/AnasKH21
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AnasKh21&show_icons=true&theme=transparent"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasKh21&layout=compact&theme=transparent"/>
+</p>
+
+---
+
+### Links
+
+Portfolio  
+https://AnasKh21.github.io
+
+Root-Me  
+https://www.root-me.org/AnasKH21
+
+Email  
+anaskhayar21@gmail.com
