@@ -67,7 +67,6 @@ https://AnasKh21.github.io
   <img alt="Angular" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img alt="HTML" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="CSS" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="Tailwind" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 </p>
 
 ### Databases
@@ -89,16 +88,6 @@ https://AnasKh21.github.io
   <img alt="GitLab" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
 </p>
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnasKh21&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasKh21&layout=compact&theme=transparent" />
-</p>
-
----
 
 ## Contact
 
