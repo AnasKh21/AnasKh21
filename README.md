@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer · Young passionate graduate</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/anas-khayar-7004ab2bb/)">
+  <a href="https://www.linkedin.com/in/anas-khayar-7004ab2bb/">
     <img alt="LinkedIn" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   &nbsp;&nbsp;
@@ -10,7 +10,7 @@
     <img alt="GitHub" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://AnasKh21.github.io">
+  <a href="https://anaskh21.github.io/">
     <img alt="Portfolio" height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" />
   </a>
   &nbsp;&nbsp;
@@ -21,7 +21,7 @@
 
 ---
 
-<img align="right" alt="Tech Stack" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="coding" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
 
 ## About Me
 
