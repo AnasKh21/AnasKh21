@@ -3,25 +3,24 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anas-khayar-7004ab2bb/">
-    <img alt="LinkedIn" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/AnasKh21">
-    <img alt="GitHub" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://anaskh21.github.io/">
-    <img alt="Portfolio" height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" />
+  &nbsp;
+  <a href="https://AnasKh21.github.io">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=googlechrome&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.root-me.org/AnasKH21">
-    <img alt="Root-Me" height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bugcrowd.svg" />
+    <img alt="Root-Me" src="https://img.shields.io/badge/Root--Me-111827?style=flat&logo=hackthebox&logoColor=white" />
   </a>
 </p>
 
 ---
-
-<img align="right" alt="coding" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
+<img align="right" alt="coding" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="340" style="margin-top: 18px;"/>
 
 ## About Me
 
@@ -46,7 +45,7 @@ https://AnasKh21.github.io
   <img alt="Python" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="Java" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img alt="C" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img alt="CSharp" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img alt="C#" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img alt="JavaScript" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="TypeScript" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img alt="Bash" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
@@ -55,7 +54,7 @@ https://AnasKh21.github.io
 ### Backend
 
 <p align="left">
-  <img alt="NodeJS" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="Node.js" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img alt="Express" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img alt="Spring" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img alt=".NET" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
