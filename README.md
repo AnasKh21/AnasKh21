@@ -10,7 +10,7 @@
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="[https://AnasKh21.github.io](https://www.fastfol.io/anaskhayar)">
+  <a href="fastfol.io/anaskhayar">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=googlechrome&logoColor=white" />
   </a>
   &nbsp;
@@ -32,7 +32,7 @@ I spend a lot of time coding, solving programming problems, and exploring how sy
 I also practice CTF challenges and security labs, and regularly solve problems on platforms like LeetCode, Root-Me and KodeKloud.
 
 Check my personal website:  
-https://AnasKh21.github.io
+fastfol.io/anaskhayar
 
 ---
 
@@ -92,5 +92,5 @@ https://AnasKh21.github.io
 ## Contact
 
 Email: anaskhayar21@gmail.com  
-Website: https://AnasKh21.github.io  
+Website: fastfol.io/anaskhayar
 Root-Me: https://www.root-me.org/AnasKH21
