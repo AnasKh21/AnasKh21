@@ -10,7 +10,7 @@
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://AnasKh21.github.io">
+  <a href="[https://AnasKh21.github.io](https://www.fastfol.io/anaskhayar)">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=googlechrome&logoColor=white" />
   </a>
   &nbsp;
