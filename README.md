@@ -6,10 +6,6 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/AnasKh21">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
   <a href="https://fastfol.io/anaskhayar">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=googlechrome&logoColor=white" />
   </a>
