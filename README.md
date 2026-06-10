@@ -10,12 +10,8 @@
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="fastfol.io/anaskhayar">
+  <a href="https://fastfol.io/anaskhayar">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=googlechrome&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.root-me.org/AnasKH21">
-    <img alt="Root-Me" src="https://img.shields.io/badge/Root--Me-111827?style=flat&logo=hackthebox&logoColor=white" />
   </a>
 </p>
 
@@ -23,16 +19,24 @@
 <img align="right" alt="coding" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="340" style="margin-top: 18px;"/>
 
 
-Software engineer from **ENSIIE (Computer science engineer's degree | Paris)**.
+Hey I'm a recent graduate software engineer, passionate about building the kind of software that AI will work with.
 
-I like building backend systems, APIs and tools, learning new technologies, and improving my programming skills through projects and experimentation.
-
-I spend a lot of time coding, solving programming problems, and exploring how systems work under the hood.
-
-I also practice CTF challenges and security labs, and regularly solve problems on platforms like LeetCode, Root-Me and KodeKloud.
+Off the keyboard, I'm a self-taught guitarist, and a good chess player ( about 1500 ).
 
 Check my personal website:  
-fastfol.io/anaskhayar
+[fastfol.io/anaskhayar](https://fastfol.io/anaskhayar)
+
+---
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnasKh21&hide_border=true&theme=tokyo-night&days=365" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnasKh21&hide_border=true&theme=tokyonight" />
+</p>
 
 ---
 
@@ -41,56 +45,44 @@ fastfol.io/anaskhayar
 ### Languages
 
 <p align="left">
-  <img alt="Python" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="Java" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img alt="C" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img alt="C#" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img alt="Python" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="JavaScript" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="TypeScript" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="Bash" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img alt="Rust" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
 </p>
 
-### Backend
-
-<p align="left">
-  <img alt="Node.js" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="Express" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img alt="Spring" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img alt=".NET" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img alt="FastAPI" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-</p>
-
-### Frontend
+### Frameworks
 
 <p align="left">
   <img alt="React" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Angular" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img alt="HTML" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</p>
-
-### Databases
-
-<p align="left">
-  <img alt="PostgreSQL" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img alt="MySQL" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img alt="MongoDB" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img alt="Redis" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-  <img alt="Neo4j" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" />
+  <img alt="Spring Boot" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img alt="Node.js" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </p>
 
 ### Tools
 
 <p align="left">
+  <img alt="PostgreSQL" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="Neo4j" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" />
+  <img alt="MongoDB" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img alt="Docker" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img alt="Linux" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img alt="Git" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="GitLab" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
 </p>
 
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnasKh21&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasKh21&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
+</p>
+
+---
 
 ## Contact
 
 Email: anaskhayar21@gmail.com  
-Website: fastfol.io/anaskhayar
-Root-Me: https://www.root-me.org/AnasKH21
+Website: [fastfol.io/anaskhayar](https://fastfol.io/anaskhayar)
