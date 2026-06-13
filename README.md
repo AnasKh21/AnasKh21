@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Anas Khayar</h1>
-<h3 align="center">Software Engineer · Young passionate graduate</h3>
+<h3 align="center">French graduate software engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anas-khayar-7004ab2bb/">
